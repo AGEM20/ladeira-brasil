@@ -1,0 +1,33 @@
+
+body{
+   
+}
+
+#banner{
+    width: 100%;
+    min-height: 0%;
+}
+
+.principal {
+    background: rgba(216, 216, 216, 0.849);
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+
+}
+
+.titulo-centralizado{
+    
+text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+.destaque{
+    background: #FFFFFF;
+}
